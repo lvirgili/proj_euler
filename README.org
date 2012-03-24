@@ -1,0 +1,19 @@
+* Project Euler solutions
+  These are my solutions to the [[projecteuler.net][Project Euler]] problems.
+
+  I am putting them here for two reasons:
+  1. I lost all my solutions and cannot access my original account as
+     it is said that my email is already used by another account
+     (weird).
+  2. To make myself respect the "one minute rule" and not just try the
+     brute force solution, go take a coffee and come back after a
+     while to the solution.
+
+  Remember: trying to solve the problems is the fun
+  part. Understanding the math behind them and learning new things is
+  what matters, not just getting the large green tick in the
+  screen. Whenever I used something not trivial to solve the problem I
+  put in the comments where the resource was found.
+
+  The problems will be solved in a mix of C++, D and Julia. Sometimes
+  they can be solved without the computer at all.

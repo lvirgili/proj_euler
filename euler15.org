@@ -1,0 +1,4 @@
+* Euler 15
+  This one is a combinatorics problem. It is just a matter of counting
+  how many "downs" and "rights" there are. After that, just google the
+  formula for n = 20.
