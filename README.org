@@ -15,5 +15,7 @@
   screen. Whenever I used something not trivial to solve the problem I
   put in the comments where the resource was found.
 
-  The problems will be solved in a mix of C++, D and Julia. Sometimes
-  they can be solved without the computer at all.
+  So far, there are solutions in:
+  1. Julia (most of them)
+  2. Haskell
+  3. Using google to calculate 40!/(20!20!) =P
