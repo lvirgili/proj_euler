@@ -1,5 +1,5 @@
 * Project Euler solutions
-  These are my solutions to the [[www.projecteuler.net][Project Euler]] problems.
+  These are my solutions to the projecteuler.net problems.
 
   I am putting them here for two reasons:
   1. I lost all my solutions and cannot access my original account as
