@@ -18,4 +18,5 @@
   So far, there are solutions in:
   1. Julia (most of them)
   2. Haskell
-  3. Using google to calculate 40!/(20!20!) =P
+  3. Ruby
+  4. Using google to calculate 40!/(20!20!) =P
