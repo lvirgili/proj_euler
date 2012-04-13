@@ -10,8 +10,8 @@ using namespace std;
 
 int main() {
      unsigned sum = 0;
-     unsigned n = 10000;
-     for (unsigned i = 2; i <= n; ++i) {
+     unsigned max = 10000;
+     for (unsigned i = 2; i <= max; ++i) {
           if (floor(sqrt(i)) != sqrt(i)) {
                double n = sqrt(i);
                unsigned a = floor(n);
