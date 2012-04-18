@@ -1,0 +1,3 @@
+* Euler 79
+  Solved it by hand. Searched for a number that always appeared first,
+  which was 7, then ordered the numbers that appeared after 7 and so on.
