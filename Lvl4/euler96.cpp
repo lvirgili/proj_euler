@@ -1,7 +1,6 @@
 #include <iostream>
 #include <fstream>
 #include <vector>
-#include <cstdlib>
 using namespace std;
 
 int grid[9][9];
