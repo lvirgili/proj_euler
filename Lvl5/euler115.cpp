@@ -1,4 +1,6 @@
-//Really forced it. I thought it would follow the same pattern as 114, but it didn't. Then the function that I used to generate the patterns solved it under one minute. So...
+//Really forced it. I thought it would follow the same pattern as 114,
+//but it didn't. Then the function that I used to generate the
+//patterns solved it under one minute. So...
 
 #include <iostream>
 using namespace std;
